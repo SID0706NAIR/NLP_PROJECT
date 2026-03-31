@@ -54,4 +54,3 @@ elif option == "Text-to-Speech (TTS)":
             st.warning("Please enter some text first.")
 
 st.sidebar.divider()
-st.sidebar.caption("Project for EY | Using Python & Streamlit")
